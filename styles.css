@@ -10,8 +10,13 @@ margin-left: 25%;
 
 #featured {
     color: black;
+    z-index: 1;
 }
-#button { margin-left: 150em }
+#button { 
+    margin-left: 150em;
+    z-index: 1;
+     }
+
 
 .primary-button {
     min-width: 215px;
