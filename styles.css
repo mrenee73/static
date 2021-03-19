@@ -7,6 +7,12 @@ margin-left: 25%;
 
     
 }
+
+#featured {
+    color: black;
+}
+#button { margin-left: 150em }
+
 .primary-button {
     min-width: 215px;
     padding: 0px 16px;
